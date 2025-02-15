@@ -1,5 +1,5 @@
-# This is a test
+Unofficial SunPower Troubleshooting Guide
 
-This is a test of github pages.
+This is an attempt to gather a coherent set of documents about SunPower's solar systems.
 
 [App](App.md)
