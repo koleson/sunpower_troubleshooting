@@ -24,10 +24,14 @@ This tab shows historical data.  It can be incorrect for various reasons.
 
 This tab is only available if your installer produced a panel map and enabled the tab for you while SunPower was around.
 
-## Profile
+## Profile tab
 
 The "System Connection" section is frequently wrong.  For example, it will show "System is communicating via Ethernet" when it's on Wi-Fi, and vice-versa.
 
 ### SunVault Info
 
 You can "Reset Battery" from here.  This will only work if your PVS is communicating with the monitoring servers.
+
+## Nerd Notes
+
+The app uses GraphQL for most API requests.  It was transitioned from using SunPower-domained servers to SunStrong-domained servers in early 2025.
